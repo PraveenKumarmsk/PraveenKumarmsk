@@ -58,6 +58,8 @@ I'm an operations and technology professional with a passion for **networking an
 
 ## 🚀 `Praveen# show projects`
 
+<!-- REPOS:START -->
+
 | Project | What it does |
 |:--|:--|
 | 🌐 [**My_Profile_Portfolio**](https://github.com/PraveenKumarmsk/My_Profile_Portfolio) | My portfolio website · [live](https://praveenkumarmsk.github.io/My_Profile_Portfolio/) |
@@ -69,6 +71,8 @@ I'm an operations and technology professional with a passion for **networking an
 | 🔀 [**VLAN Configuration Lab**](https://github.com/PraveenKumarmsk/VLAN-Configuration-Project-Labs) | VLANs, access/trunk ports, inter-VLAN routing |
 | 📡 [**DHCP Configuration Lab**](https://github.com/PraveenKumarmsk/DHCP-Configuration-Project-Labs) | DHCP pools, gateway and DNS |
 | 🔁 [**NAT & PAT Lab**](https://github.com/PraveenKumarmsk/NAT-PAT-Configuration-Project-Labs) | NAT/PAT for private-to-public communication |
+
+<!-- REPOS:END -->
 
 <br/>
 
