@@ -100,7 +100,7 @@ I'm an operations and technology professional with a passion for **networking an
 | 🌐 Portfolio | [praveenkumarmsk.github.io/My_Profile_Portfolio](https://praveenkumarmsk.github.io/My_Profile_Portfolio/) |
 | 💼 LinkedIn | [praveen-kumar-msk](https://www.linkedin.com/in/praveen-kumar-msk/) |
 | 📧 Email | krpravin406@gmail.com |
-| 💬 WhatsApp | [6299078085](https://wa.me/916299078085) |
+| 💬 WhatsApp | [only message](https://wa.me/916299078085) |
 
 <div align="center">
 
